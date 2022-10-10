@@ -1,9 +1,9 @@
 # cpcfi_problems
 
-- NAME:
-- CODEFORCES USER: 
-- GENERATION NUMBER:
-- MOST DIFFICULT TOPIC: 
+- NAME: Rebeca Ríos Cruz
+- CODEFORCES USER: Resst
+- GENERATION NUMBER: 2
+- MOST DIFFICULT TOPIC: Graphs
 
 # How to use this repo?
 
